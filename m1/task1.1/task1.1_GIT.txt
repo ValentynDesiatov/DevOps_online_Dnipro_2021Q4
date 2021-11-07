@@ -1,0 +1,17 @@
+1279ae8 HEAD@{0}: merge develop: Fast-forward (no commit created; -m option ignored)
+aeedad1 HEAD@{1}: checkout: moving from develop to master
+1279ae8 HEAD@{2}: merge images: Merge made by the 'recursive' strategy.
+244b188 HEAD@{3}: reset: moving to 244b1884a1787384885d09295b81e7f27252cf10
+08c7007 HEAD@{4}: merge styles: Merge made by the 'recursive' strategy.
+bad411f HEAD@{5}: merge images: Fast-forward
+ecd517c HEAD@{6}: checkout: moving from styles to develop
+244b188 HEAD@{7}: commit: change index.html
+6844d6d HEAD@{8}: commit: add styles
+ecd517c HEAD@{9}: checkout: moving from develop to styles
+ecd517c HEAD@{10}: checkout: moving from images to develop
+bad411f HEAD@{11}: commit: add some images, change index.html
+ecd517c HEAD@{12}: checkout: moving from develop to images
+ecd517c HEAD@{13}: commit: add index.html
+aeedad1 HEAD@{14}: checkout: moving from master to develop
+aeedad1 HEAD@{15}: commit (initial): init commit
+
